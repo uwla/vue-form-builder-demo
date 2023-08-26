@@ -1,0 +1,21 @@
+{
+    "name": "vue-form-builder-demo",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "@uwlajs/vue-form-builder": "^0.1.1",
+        "bootstrap": "^4.6.2",
+        "bootstrap-vue": "^2.23.1",
+        "vue": "^2.6.11",
+        "vue-anka-cropper": "^1.1.0",
+        "vue-multiselect": "^2.1.7"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "5.0.8",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
